@@ -19,7 +19,7 @@ NOTES:
 
 * What is a function? A function is small reusable piece of code that contains a specific action/logic.
 * SYNTAX:
-	function functionName() data-type {
+	function functionName() data-type(to be returned from the function) {
 		//function body logic
 	}
 */
