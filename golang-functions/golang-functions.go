@@ -2,14 +2,14 @@ package main
 
 import "fmt"
 
-func main() {
-	//printing output to the console.
-	fmt.Println(sum(1, 6))
-}
-
 // Syntax for a go lang function
 func sum(a int, b int) int {
 	return a + b
+}
+
+func main() {
+	//printing output to the console.
+	fmt.Println(sum(1, 6))
 }
 
 /*
