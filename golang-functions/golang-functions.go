@@ -4,12 +4,12 @@ import "fmt"
 
 func main() {
 	//printing output to the console.
-	fmt.Println(names())
+	fmt.Println(sum(1, 6))
 }
 
 // Syntax for a go lang function
-func names() string {
-	return "This is my name"
+func sum(a int, b int) int {
+	return a + b
 }
 
 /*
@@ -22,4 +22,5 @@ NOTES:
 	function functionName() data-type(to be returned from the function) {
 		//function body logic
 	}
+
 */
