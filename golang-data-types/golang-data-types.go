@@ -12,6 +12,7 @@ func main() {
 --------------
 GO DATA-TYPES:
 --------------
+
 * DATA-TYPES USED IN GO: string | int | bool | float64 | array
 * SYNTAX: var *identifier-name* *data-type* = initialized value
 * EXAMPLE: var fName string = "James"

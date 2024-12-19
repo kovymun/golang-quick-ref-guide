@@ -5,9 +5,10 @@ func main() {
 }
 
 /*
-------
-NOTES:
-------
+-----------
+GO STRUCTS:
+-----------
+
 * What is an Struct in Go?
   - A struct is a composite data type in Go, short for "structure."
   - It allows you to group related properties (fields) into a single unit, making your code more organized and readable.

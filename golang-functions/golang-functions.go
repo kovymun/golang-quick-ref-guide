@@ -13,9 +13,9 @@ func main() {
 }
 
 /*
-------
-NOTES:
-------
+------------
+GO FUNCTIONS
+------------
 
 * What is a function? A function is small reusable piece of code that contains a specific action/logic.
 * SYNTAX:

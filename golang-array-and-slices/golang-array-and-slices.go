@@ -1,3 +1,9 @@
+/*
+---------------------
+GO ARRAYS ANS SLICES:
+---------------------
+*/
+
 package main
 
 import "fmt"
@@ -41,9 +47,9 @@ func demoSlices() string {
 }
 
 /*
-------
-NOTES:
-------
+-----------------------------
+GO ARRAYS ANS SLICES DETAILS:
+-----------------------------
 * What is an Array?
   - An array is a fixed-size collection of elements of the same data type.
   - SYNTAX:

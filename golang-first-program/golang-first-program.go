@@ -15,7 +15,9 @@ func main() {
 //Running the program: go run golang-first-program.go
 
 /*
+------
 NOTES:
+------
 
 ---------
 PACKAGES:
